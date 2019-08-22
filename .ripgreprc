@@ -1,0 +1,14 @@
+--hidden
+--ignore-case
+
+--type-add
+haml:*.haml
+
+--type-add
+react:*.jsx
+
+--type-add
+slim:*.slim
+
+--glob
+!.git/*
