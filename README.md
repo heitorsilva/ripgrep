@@ -9,5 +9,5 @@ EXPORT RIPGREP_CONFIG_PATH=$HOME/.ripgreprc
 
 ## Windows
 
-System-wide environment variable or User environment variable
-C:\Users\heitor\.ripgreprc
+System-wide environment variable or User environment variable: RIPGREP_CONFIG_PATH
+Value: C:\Users\heitor\.ripgreprc
