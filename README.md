@@ -11,4 +11,4 @@ EXPORT RIPGREP_CONFIG_PATH=$HOME/.ripgreprc
 
 System-wide environment variable or User environment variable:  
 Name: RIPGREP_CONFIG_PATH    
-Value: C:\Users\heitor\.ripgreprc
+Value: C:\Users\heitor\\.ripgreprc
